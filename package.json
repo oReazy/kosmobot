@@ -10,7 +10,7 @@
     "libsodium-wrappers": "latest",
     "opusscript": "latest",
     "ytdl-core": "latest",
-    "node-cron": "latest",
-    "opencollective-postinstall": "latest"
+    "opencollective-postinstall": "latest",
+    "node-cron": "latest"
   }
 }
