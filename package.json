@@ -8,6 +8,7 @@
     "fstorm": "latest",
     "jimp": "latest",
     "libsodium-wrappers": "latest",
+    "node-cron": "^2.0.3",
     "opusscript": "latest",
     "ytdl-core": "latest"
   }
